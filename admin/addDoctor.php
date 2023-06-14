@@ -11,7 +11,7 @@
     <link rel="icon" type="image" href="favicon.png">
     <link rel="stylesheet" href="style.css">
    
-    <title>ADD DOCTOR</title>
+    <title>ADD DOCTORs</title>
 </head>
 <body>
     <center>
